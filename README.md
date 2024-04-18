@@ -2,7 +2,7 @@
 
 <br/>
 
-## <center>Guidelines for contributing</center>
+## <center>Guidelines for contributing</center> 
 
 <br/>
 
